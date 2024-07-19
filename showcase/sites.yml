@@ -1,3 +1,13 @@
+- title: Climatisation Golfe de Saint-Tropez | Corna Climatisation
+  url: https://climatisation-saint-tropez.fr/
+  description: This awesome website is using Strapi for managing the content of my Angular application
+  categories:
+    - Corporate website
+  frontend:
+    - Angular
+    - Bootstrap
+  made_by: Vatilab
+  made_by_url: https://vatilab.com
 - title: Abhimanyu Garbhsanskar
   url: https://garbhsanskar.co.in
   description: Event, Workshop, E-commerce, and many more backends with strapi, Website on Next JS, Android & IOS app
