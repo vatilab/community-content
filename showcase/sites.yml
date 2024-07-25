@@ -1,3 +1,14 @@
+- title: Climatisation Saint Tropez
+  url: https://climatisation-saint-tropez.fr/
+  description: Service professionnel et personnalisé pour installation, entretien et dépannage climatisation
+  categories:
+    - Corporate website
+    - Workshop Management
+  frontend:
+    - Angular
+    - Bootstrap
+  made_by: Vatilab
+  made_by_url: https://www.vatilab.com
 - title: Abhimanyu Garbhsanskar
   url: https://garbhsanskar.co.in
   description: Event, Workshop, E-commerce, and many more backends with strapi, Website on Next JS, Android & IOS app
